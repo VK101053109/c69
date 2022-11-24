@@ -1,0 +1,29 @@
+html{
+    text-align: center;
+}
+.mybar{
+    top: 0;
+    z-index: 9999;
+    position: sticky;
+}
+.wn{
+    font-family: 'Cinzel Decorative', cursive;
+    color: black;
+}
+.img1{
+    width: 600px;
+    height: 500px;
+}
+#schoolname{
+    border: 1px solid lightgray;
+}
+#library{
+    border: 1px solid lightgray;
+}
+.webpage_school{
+    width: 700px;
+    height: 250px;
+}
+.pic_text{
+    border: 1px solid lightgray;
+}
